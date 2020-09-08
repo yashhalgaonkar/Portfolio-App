@@ -2,4 +2,5 @@
 A portfolio app made using Flutter.
 
 ## Screenshot
-![Portfolio](https://user-images.githubusercontent.com/48143957/83158577-90e35900-a122-11ea-9061-151a48f4587a.jpg)
+![portfolio](https://user-images.githubusercontent.com/48143957/92475715-79c10680-f1fb-11ea-8d64-4d6fbe4143ba.jpg)
+
